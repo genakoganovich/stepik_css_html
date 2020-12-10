@@ -1,0 +1,31 @@
+body {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1, h2, h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em; 
+  }
+
+  h1 {
+   font-size: 32px;   
+  }
+
+  table {
+      border: 1px solid black;
+  }
+
+  img + figcaption {
+      font-style: italic;
+  }
+
+  .floatleft {
+      float: left;
+  }
+
+  .floatright {
+      float: right;
+  }
