@@ -22,10 +22,8 @@ body {
       font-style: italic;
   }
 
-  .floatleft {
-      float: left;
-  }
-
   .floatright {
       float: right;
   }
+
+  
